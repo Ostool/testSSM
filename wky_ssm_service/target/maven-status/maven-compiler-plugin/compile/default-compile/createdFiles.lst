@@ -1,0 +1,12 @@
+wky\ssm\service\RolesService.class
+wky\ssm\serviceImpl\ProductServiceImpl.class
+wky\ssm\serviceImpl\SysLogServiceImpl.class
+wky\ssm\service\PermissionService.class
+wky\ssm\serviceImpl\PermissionService.class
+wky\ssm\service\UserService.class
+wky\ssm\service\OrdersService.class
+wky\ssm\service\ProductService.class
+wky\ssm\serviceImpl\OrdersServiceImpl.class
+wky\ssm\service\SysLogService.class
+wky\ssm\serviceImpl\RolesServiceImpl.class
+wky\ssm\serviceImpl\UserServiceImpl.class
